@@ -54,6 +54,10 @@ npm start
 push code on git
 aws amplify deploy project
 
+angular app:
+npm install -g @angular/cli
+ng serve
+
 
 
 
