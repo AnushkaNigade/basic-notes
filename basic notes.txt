@@ -1,0 +1,59 @@
+Salesforce : 
+login :kv@vk.sandbox
+Password: vaish123
+
+Developer. Salesforce. Com
+
+
+
+Vaishnavi email id: vaishnavip1810@gmail.com
+pass:vaishnavi123 or vaishnavi@123
+
+Git password new: git@7499419820
+
+Red hat pass: anu@7499419820
+Email: anushkanigade1@gmail.com
+
+Aws : username: themadhujadhav@gmail.com
+Pass: theMadhujadhav@123
+
+
+
+
+nodejs:
+npm init
+package.json
+enter...enter
+create index.html file
+add airline code to it and go live
+
+
+git commands:
+mkdir partA
+cd partA
+make a file demo
+git --version
+git init
+git add .
+git status
+git remote add origin "link"
+git commit -m "first commit"
+git status
+git push origin master
+
+(airline)nodejs app:
+npm init
+package.json
+mkdir public
+node index.js
+
+paas environment:
+npx create-react-app myapp
+cd myapp
+npm start
+push code on git
+aws amplify deploy project
+
+
+
+
