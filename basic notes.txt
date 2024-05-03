@@ -58,6 +58,22 @@ angular app:
 npm install -g @angular/cli
 ng serve
 
+nodejs:
+crete folder 
+opent that folder in termina
+npm unit
+package .json create 
+then create index.js file in vs code 
 
+npm install express --save
+then it cretes some files like node module and package log json
+copy paste code into index.js 
 
+create public folder on vs code 
+and website and paste code on it all file 
+
+go to terminal
+node index.js 
+go to chrom
+localhost 4000 then it shows our website
 
